@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Klebson Stefanini 👋
 
-<!--
-**klebson-stefanini/klebson-stefanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional de 40 anos em transição estratégica de carreira para a área de **Dados**, atualmente consolidando minha formação técnica no programa **Next de Dados da CESAR School**. 
 
-Here are some ideas to get you started:
+Trago uma bagagem sólida como **Supervisor de Frota** em contratos de licitação pública. Essa trajetória me deu profunda experiência em eficiência operacional, gestão de contratos complexos, conformidade com metas governamentais (SLAs) e controle rigoroso de custos. Minha meta é unir essa forte visão de negócio e liderança à capacidade técnica de extrair insights que otimizam processos e geram economia real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Habilidades Técnicas em Desenvolvimento
+* **Linguagens & Manipulação:** Python (Pandas, NumPy), SQL (Consultas, Joins, Agregações)
+* **Visualização de Dados:** Power BI, Seaborn, Matplotlib
+* **Processos de Dados:** Análise Exploratória (EDA), Limpeza de Dados, Modelagem de KPIs
+
+---
+
+### 📈 Projetos em Destaque (Em Construção)
+* 📂 **Análise de Custos e Eficiência de Frota:** Projeto prático simulando otimização de frotas, consumo de combustível e previsão de manutenções. *(Link em breve)*
+* 📂 **Análise de Dados de Compras Governamentais:** Estudo de padrões de preços e prazos em editais de licitação. *(Link em breve)*
